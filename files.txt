@@ -1,0 +1,1 @@
+List the paths to the images you want to extract from here

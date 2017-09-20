@@ -1,0 +1,2 @@
+You can list strings you want to find here
+Each string should be on a new line
