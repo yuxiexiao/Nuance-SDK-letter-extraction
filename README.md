@@ -2,6 +2,9 @@
 
 Additional tools to be used with the Nuance SDK to extract sub-images of (specified) strings and characters from a picture.
 
+
+Note: Main function definitions are given in ocrExtraction.cpp
+
 This program contains 2 different image extraction modes:
 
   1.) Extract Letters only.
